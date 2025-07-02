@@ -13,8 +13,10 @@ if (!defined('_GNUBOARD_')) exit; // 개별 페이지 접근 불가
                 <a href="<?php echo G5_BBS_URL; ?>/content.php?co_id=company">회사소개</a>
                 <a href="<?php echo G5_BBS_URL; ?>/content.php?co_id=privacy">개인정보처리방침</a>
                 <a href="<?php echo G5_BBS_URL; ?>/content.php?co_id=provision">서비스이용약관</a>
+                <p>주소: 서울특별시 종로구 종로2가 71-2</p>
+                <p>사업자번호: 221-45-87943</p>
             </div>
-            <div id="ft_copy">Copyright &copy; <b>소유하신 도메인.</b> All rights reserved.</div>
+            <div id="ft_copy">Copyright &copy; <b>http://jay230.dothome.co.kr/</b> All rights reserved.</div>
 
     </div>
     <button type="button" id="top_btn"><i class="fa fa-arrow-up" aria-hidden="true"></i><span class="sound_only">상단으로</span></button>
