@@ -175,12 +175,14 @@ echo latest('theme/banner', 'banner', 3, 33);
             <img src="http://jay230.dothome.co.kr/img/surgery.png" alt="surgery" class="surgery01">
         </div>
         <div class="surgery_des">
-            <p class="sec04_subtitle">샤인안과는 끝까지 책임집니다.</p>
-            <h2 class="sec04_title">평생 수술 보장제 시행</h2>
+            <p class="sec04_subtitle">국가가 인정한 샤안안과병원</p>
+            <h2 class="sec04_title">보건복지부 지정 2기 전문병원 선정</h2>
             <p class="sec04_des">
-                20년이 넘게 한자리를 지켜온 샤안안과에서는<br>
-                환자의 시력을 평생 함께 관리하는 평생보장제를 시행하고 있습니다.<br>
-                본원의 수술 후 다시 시력이 저하 된 경우 평생 재수술을 보장해드립니다.
+                새빛안과병원은 보건복지부로부터<br>
+                의료서비스 질과 환자안전 우수성을 인정받아<br>
+                안과전문병원으로 다시 한 번 선정되었습니다.<br>
+                앞으로도 환자의 눈 건강을 최우선으로 생각하며<br>
+                신뢰할 수 있는 의료서비스를 제공하겠습니다.
             </p>
         </div>
     </div>

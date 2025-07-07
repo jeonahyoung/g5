@@ -2,11 +2,11 @@
 .lt_bn {position:relative}
 .lt_bn li{position:relative;text-align:center;}
 .lt_bn li img{width:100%;height:auto;vertical-align:top}
-.lt_bn .bn_txt{width:100%;z-index:2;position:absolute;text-align:left; top:50%;left:0;
+.lt_bn .bn_txt{width:100%;z-index:2;position:absolute;text-align:left; top:70%;left:0;
 -webkit-transform: translateY(-50%);
 -ms-transform : translateY(-50%);
 transform: translateY(-50%);}
-.lt_bn .txt_wr{max-width:1280px;margin:0 auto;padding:0 3%}
+.lt_bn .txt_wr{max-width:1280px;margin:0 auto;}
 
 .lt_bn li .bn_tit{display:block;max-width:500px;font-size:4em;font-weight:600; line-height:1.4em;color:#4ad1d4;word-break:keep-all}
 .lt_bn li .bn_detail{font-size:1.385em;margin:35px 0 ;color:#888;font-weight:400}
